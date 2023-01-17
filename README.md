@@ -46,4 +46,4 @@
 
 <p align="center">
     <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=vodenoff&hide_border=true&theme=dark" />
-    <img height="124px" src="https://github-readme-stats.vercel.app/api?username=vodenoff&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=trueline_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="124px" src="https://github-readme-stats.vercel.app/api?username=vodenoff" />
