@@ -12,8 +12,7 @@
 ## 🚀 Technologies & Tools
 ### Languages
 
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
-![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=yellow)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
@@ -22,12 +21,9 @@
 
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
-![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
+![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=purple)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
-![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 
 ### DevOps & Tools
@@ -38,8 +34,6 @@
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
-![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 
 ## ⚡ GitHub Stats
